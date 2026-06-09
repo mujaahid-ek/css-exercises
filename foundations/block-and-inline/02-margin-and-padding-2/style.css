@@ -7,17 +7,24 @@ body {
   font-family: sans-serif;
 }
 
+.card,
+.content,
+.title,
+.button-container {
+  padding: 8px;
+}
+
 .card {
   width: 400px;
   background: #fff;
   margin: 16px auto;
 }
 
-.title {
+.content {
   background: #e3f4ff;
 }
 
-.content {
+.title {
   background: #e3f4ff;
 }
 
